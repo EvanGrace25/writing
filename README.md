@@ -1,7 +1,7 @@
-# Astro Starter Kit: Blog
+# Evan's Blog - Powered by MARKDOWN
 
 ```sh
-npm create astro@latest -- --template blog
+pip install focus-mode-to-peruse-Evans-website
 ```
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
@@ -13,12 +13,12 @@ npm create astro@latest -- --template blog
 
 Features:
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+- ✅ Word Vomiting From Evan
+- ✅ 100/100 Sarcasm
+- ✅ SEO-friendly with no SEO Optimization!
+- ✅ Ability to use english to read presented websites
+- ✅ 17 Year SLA on Website issues!
+- ✅ Deep commitment to our <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">Core Values</a>
 
 ## 🚀 Project Structure
 
